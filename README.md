@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jianfengli001
+- 👋 Hi, I’m jfli
 - 👀 I’m interested in java/python development
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on java/python development
